@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "reto": {
+      "commandName": "Project",
+      "commandLineArgs": "casa ropero mesa"
+    }
+  }
+}
